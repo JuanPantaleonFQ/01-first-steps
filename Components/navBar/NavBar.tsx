@@ -11,8 +11,7 @@ import React from 'react'
     { path: "/", title: "Home" },
     { path: "/contact", title: "Contact" },
     { path: "/pricing", title: "Pricing" },
-    { path: "/about", title: "About" }
-    
+    { path: "/about", title: "About" }    
   ];
   
 
